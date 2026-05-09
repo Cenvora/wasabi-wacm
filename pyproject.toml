@@ -41,7 +41,7 @@ classifiers = [
 [project.optional-dependencies]
 dev = [
   "pytest>=8.4,<10",
-  "mypy>=1.19,<2",
+  "mypy>=2,<3",
   "types-requests>=2.32.0",
 ]
 
